@@ -24,4 +24,6 @@ for friend in friends_nearby_set:
 
 nearby_users.close()
 
+#update to database
+
 
